@@ -30,4 +30,7 @@ bin/
 # OS
 .DS_Store
 Thumbs.db
+.gemini/
 
+# Project Specific
+exam_be/
